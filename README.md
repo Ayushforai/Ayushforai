@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shelbyayush
-- 👀 I’m interested in AI/ Machine learning, Data Structures & Algorithms and java AWT projects.
-- 🌱 I’m currently learning AI/ML in python language while having java as backup.
+- 👀 I’m interested in AI/ Machine learning, Data Structures & Algorithms and HTML/CSS webpages.
+- 🌱 I’m currently learning AI/ML in python language while working on my problem solving skills with fluency in NLP by creating feew projects in it.
 - 📫 How to reach me:
 
 - 📩: ayushc90210@gmail.com
