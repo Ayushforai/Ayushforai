@@ -41,7 +41,7 @@ I don't just study AI/ML — I ship it, break it, and fix it until the numbers m
 <br>
 Hybrid F1 Q&A assistant (FastAPI + React) routing across the OpenF1 API, historical race CSVs, and a FAISS regulation/race RAG index, with citations and multi-turn follow-ups. Closed 19/20 (95%) tracked correctness issues; shipped with 230+ regression tests and deploy smokes (in-process, Docker, live Render). Runs on Gemini 3.8 Flash with retry/fallback handling.
 
-**🗣️ [LLM Fine-Tuning for Slang & Informal Text Translation]()** · Jul 2025 – Apr 2026
+**🗣️ [LLM Fine-Tuning for Slang & Informal Text Translation](https://huggingface.co/spaces/ayushforai/slang-translator-web)** · Jul 2025 – Apr 2026
 <br>
 Fine-tuned LLaMA 3.2 1B Instruct with QLoRA (rank 16) — 11.27M trainable params (0.91% of 1.24B) for formal → slang rewriting. Training loss 4.75 → 0.267 (94.4% drop), 89.5% token accuracy over 2,106 steps. Built a formality detector (TF-IDF + logistic regression) hitting 91.1% accuracy/F1. Deployed as a Flask app on Hugging Face Spaces.
 
