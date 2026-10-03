@@ -59,12 +59,4 @@ A Natural Language Processing (NLP) application designed to perform sentiment an
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-nine.vercel.app/api/top-langs/?username=Ayushforai&layout=compact&theme=radical" />
-</p>
-
----
-
 <p align="center"><i>Currently exploring: Advanced system design and multi-agent RAG pipelines.</i></p>
