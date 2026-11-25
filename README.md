@@ -54,6 +54,7 @@ A Natural Language Processing (NLP) application designed to perform sentiment an
 ### 📜 Certifications
 
 - **DeepLearning.AI** — Agentic AI (Feb 2026)
+- **Anthropic** - Introduction to Model Context Protocol, MCP: Advanced Topics
 - **Oracle** — Cloud Infrastructure 2025 Certified AI Foundations Associate (Jan 2026)
 - **Simplilearn** — RAG Course for Beginners (Nov 2025)
 
